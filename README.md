@@ -7,6 +7,7 @@ struts2  ucenter-api
 eclipse import maven 工程
 
 修改配置文件：# 主要修改如下三项，其他可空
+
 uc-java / src / main / resources / config.properties
 # ================================================
 # Ucenter API for JAVA
